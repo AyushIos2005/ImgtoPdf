@@ -21,7 +21,7 @@ No app store. No installation. Just open and use.
 
 ## 🚀 Live Demo
 
-👉 **[https://imgTopdf.netlify.app](https://imgTopdf.netlify.app)**
+👉 **[https://pic2doc.netlify.app](https://pic2doc.netlify.app)**
 
 ## 📲 Install on Android
 
